@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\bin\Debug\net6.0\02-ConceptosBasicos.exe
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\bin\Debug\net6.0\02-ConceptosBasicos.deps.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\bin\Debug\net6.0\02-ConceptosBasicos.runtimeconfig.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\bin\Debug\net6.0\02-ConceptosBasicos.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\bin\Debug\net6.0\02-ConceptosBasicos.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\refint\02-ConceptosBasicos.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\02-ConceptosBasicos.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\02-ConceptosBasicos\02-ConceptosBasicos\obj\Debug\net6.0\ref\02-ConceptosBasicos.dll
