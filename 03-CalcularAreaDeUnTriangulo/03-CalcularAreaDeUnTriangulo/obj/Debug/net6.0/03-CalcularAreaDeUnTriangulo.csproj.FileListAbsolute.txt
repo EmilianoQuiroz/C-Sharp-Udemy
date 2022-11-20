@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\bin\Debug\net6.0\03-CalcularAreaDeUnTriangulo.exe
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\bin\Debug\net6.0\03-CalcularAreaDeUnTriangulo.deps.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\bin\Debug\net6.0\03-CalcularAreaDeUnTriangulo.runtimeconfig.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\bin\Debug\net6.0\03-CalcularAreaDeUnTriangulo.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\bin\Debug\net6.0\03-CalcularAreaDeUnTriangulo.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\refint\03-CalcularAreaDeUnTriangulo.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\03-CalcularAreaDeUnTriangulo.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\03-CalcularAreaDeUnTriangulo\03-CalcularAreaDeUnTriangulo\obj\Debug\net6.0\ref\03-CalcularAreaDeUnTriangulo.dll
