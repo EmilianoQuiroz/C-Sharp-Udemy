@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\bin\Debug\net6.0\05-PracticaMatrices.exe
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\bin\Debug\net6.0\05-PracticaMatrices.deps.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\bin\Debug\net6.0\05-PracticaMatrices.runtimeconfig.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\bin\Debug\net6.0\05-PracticaMatrices.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\bin\Debug\net6.0\05-PracticaMatrices.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\refint\05-PracticaMatrices.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\05-PracticaMatrices.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\05-PracticaMatrices\05-PracticaMatrices\obj\Debug\net6.0\ref\05-PracticaMatrices.dll
