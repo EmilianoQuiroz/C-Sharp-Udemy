@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\bin\Debug\net6.0\06-PracticaPilasYColas.exe
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\bin\Debug\net6.0\06-PracticaPilasYColas.deps.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\bin\Debug\net6.0\06-PracticaPilasYColas.runtimeconfig.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\bin\Debug\net6.0\06-PracticaPilasYColas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\bin\Debug\net6.0\06-PracticaPilasYColas.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\refint\06-PracticaPilasYColas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\06-PracticaPilasYColas.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\06-PracticaPilasYColas\06-PracticaPilasYColas\obj\Debug\net6.0\ref\06-PracticaPilasYColas.dll
