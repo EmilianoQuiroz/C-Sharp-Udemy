@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\bin\Debug\net6.0\07-PracticaListas.exe
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\bin\Debug\net6.0\07-PracticaListas.deps.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\bin\Debug\net6.0\07-PracticaListas.runtimeconfig.json
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\bin\Debug\net6.0\07-PracticaListas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\bin\Debug\net6.0\07-PracticaListas.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\refint\07-PracticaListas.dll
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.pdb
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\07-PracticaListas.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Curso-C-Sharp\07-PracticaListas\07-PracticaListas\obj\Debug\net6.0\ref\07-PracticaListas.dll
